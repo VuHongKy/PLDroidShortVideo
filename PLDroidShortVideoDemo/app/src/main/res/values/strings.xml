@@ -6,7 +6,7 @@
     <string name="dlg_yes">是</string>
     <string name="dlg_no">否</string>
 
-    <string name="title_record">视频拍摄</string>
+    <string name="title_record">Record Video</string>
     <string name="title_audio_record">音频录制</string>
     <string name="title_compose">视频拼接</string>
     <string name="title_image_compose">图片合成</string>

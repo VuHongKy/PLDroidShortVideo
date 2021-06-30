@@ -55,7 +55,7 @@ import java.util.Stack;
 import static com.qiniu.pili.droid.shortvideo.demo.utils.RecordSettings.RECORD_SPEED_ARRAY;
 import static com.qiniu.pili.droid.shortvideo.demo.utils.RecordSettings.chooseCameraFacingId;
 
-public class VideoRecordActivity extends Activity implements PLRecordStateListener, PLVideoSaveListener, PLFocusListener {
+public class VideoRecordActivity extends Activity implements PLVideoSaveListener, PLFocusListener {
     private static final String TAG = "VideoRecordActivity";
 
     public static final String PREVIEW_SIZE_RATIO = "PreviewSizeRatio";
